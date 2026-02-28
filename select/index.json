@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "茨の海",
+  "base_artist": "鬼束ちひろ",
+  "createdAt": "2026-02-28T09:29:38.047083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茨の海",
+      "artist": "鬼束ちひろ",
+      "has_synced": false,
+      "path": "select/01_茨の海_鬼束ちひろ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茨の海",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": true,
+      "path": "select/02_茨の海_Chihiro_Onitsuka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "茨の海(Live)",
+      "artist": "Chihiro Onitsuka",
+      "has_synced": false,
+      "path": "select/03_茨の海(Live)_Chihiro_Onitsuka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茨の海",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_01_茨の海_鬼束_ちひろ.txt"
+    }
+  ]
+}
